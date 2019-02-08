@@ -1,3 +1,3 @@
 # Software-Engineering
 
-Some projects for Software-Engineering.
+Some interesting projects from Software-Engineering.
